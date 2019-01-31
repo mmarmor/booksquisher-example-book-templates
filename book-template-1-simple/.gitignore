@@ -1,0 +1,14 @@
+output
+.DS_Store
+
+# build artifacts
+Gemfile.lock
+
+### build output is now in ./generated-output which has its own .gitignore
+# my-book-name.html
+# my-book-name.pdf
+# my-book-name.pdfmarks
+# my-book-name.epub
+# my-book-name-kf8.epub
+# my-book-name.mobi
+# my-book-name.mobi8

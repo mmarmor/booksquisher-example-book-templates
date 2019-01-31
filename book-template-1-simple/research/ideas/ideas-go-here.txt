@@ -1,0 +1,6 @@
+IDEAS
+
+Keep your ideas here in this file or this directory.
+
+Notes here will not be included in the content of the book itself,
+but they are conveniently nearby when you are writing.
