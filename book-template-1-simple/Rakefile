@@ -60,6 +60,8 @@ namespace :book do
       `bundle exec asciidoctor-pdf -D generated-output #{params} #{book_name}.asc 2>/dev/null`
       puts " -- PDF output at #{book_name}.pdf"
 
+      puts "Done. Look for generated books in the generated-output directory."
+
     end
   end
 
